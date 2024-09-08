@@ -14,11 +14,12 @@ VScodeの左下にブランチ名（はじめはmain）が表示されていま�
 作成もここから行うことができます。
 
 ## コミット
-![git-vscode-commit](./images/git-vscode-commit.png)
+![git-vscode-add](./images/git-vscode-add.png)
 
 `Source Control`から、`+`をクリックし、コミットしたいファイルをステージに上げます。
 ステージとは、コミットするファイルを選択することです。
 
+![git-vscode-commit](./images/git-vscode-commit.png)
 コミットメッセージを入力し，コミットボタンを押すと、コミットが完了します。
 
 ## プッシュ
