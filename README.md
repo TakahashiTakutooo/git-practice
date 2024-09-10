@@ -6,6 +6,8 @@ folkするなり，クローンするなりして，gitの操作を練習して�
 
 **README.mdにミッションが用意されているので，それを参考に進めてください．**
 
+また，エディタでmdファイルを見ている場合，`cmd + shift + v`（windowsは`ctrl + shift + v`）でプレビューを見ることができます．
+
 ## ミッション
 
 - [00_setting](./00_setting/README.md)：gitの基本設定
